@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(128, 0, 255);
+}
+
+.titulo {
+    border: solid white;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+main {
+    background-color: rgb(245, 243, 243);
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgb(0, 255, 217);
+    padding-left: 20px;
+    
+}
+
+
+.info {
+    color: #7700ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
